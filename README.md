@@ -1,4 +1,4 @@
-### Terraform Automation - HA contanerized nginx webserver setup and RDS Aurora cluster.
+### Terraform Automation - HA contanerized nginx webserver setup and RDS Postgres cluster.
 
 ### Resources created by this template.
 * This creates a new `VPC` in us-east-1 (default region) with 2 `public subnets`
